@@ -1,6 +1,6 @@
 # 🏨 The Grand Horizon — Hotel Reservation System
 
-> **CodeAlpha Java Internship — Task 4**
+> **CodeAlpha Java Internship — Task 3**
 > A full-featured hotel reservation desktop application built with Java Swing.
 > Search rooms, make bookings, simulate payments, and manage reservations — all in a clean, professional GUI.
 
