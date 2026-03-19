@@ -248,4 +248,5 @@ Open source — free to use, learn from, and build upon.
 
 ---
 
-*Made with ☕ Java | CodeAlpha Internship 2025*
+*Made with ☕ Java | CodeAlpha Internship 2026
+*
